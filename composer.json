@@ -1,5 +1,5 @@
 {
-    "name": "consoletvs/charts",
+    "name": "mevisoft/consoletvs-charts",
     "description": "Create charts for laravel using different charts libraries",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "illuminate/support": "5.*",
+        "illuminate/support": ">=5.8",
         "jlawrence/eos": "3.*",
         "jenssegers/date": "v3.*",
         "consoletvs/support": "^2.1.2"
